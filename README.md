@@ -1,2 +1,5 @@
-# github-Final
-Final lab exam
+# My Profile
+## About Me
+- Nickname: (M)
+- Major: (CS)
+- Year: 1
